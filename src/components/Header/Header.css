@@ -1,0 +1,19 @@
+.topnav {
+    overflow: hidden;
+    margin: 50px 200px 0px 200px;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    color: #155e96;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#logo {
+    float: left;
+}
+  
