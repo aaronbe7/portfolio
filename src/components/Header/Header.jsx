@@ -8,7 +8,7 @@ export default function PageHeader(){
         <div className="topnav">
             <Link to='/Projects'>Projects</Link>
             <Link to=''>Home</Link>
-            <Link to='' id="logoheader">AB</Link>
+            <Link to='' id="logoheader">Aaron Bellach</Link>
         </div>
     )
 }

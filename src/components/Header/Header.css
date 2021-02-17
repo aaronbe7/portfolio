@@ -1,6 +1,6 @@
 .topnav {
     overflow: hidden;
-    margin: 70px 200px 80px 200px;
+    margin: 70px 10% 80px 10%;
 }
 
 .topnav a {
@@ -8,13 +8,28 @@
     display: block;
     color: #155e96;
     text-align: center;
-    padding: 14px 16px;
+    padding: 15px 15px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 #logoheader {
     float: left;
+    color: #f8876b;
+}
+
+.topnav a:hover {
+    text-decoration-line: overline;
+    text-decoration-color: #155e96;
 }
  
+@media (max-width: 600px) {
+    .topnav {
+        margin: 30px 5% 40px 5%;
+    }
+    .topnav a {
+        padding: 3px 8px;
+        font-size: 17px;
+    }
+}
   

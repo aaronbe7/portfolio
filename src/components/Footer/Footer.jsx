@@ -10,9 +10,9 @@ export default function PageFooter(){
 
     return (
         <div className="bottomnav">
-            <a href="mailto:abellach7@gmail.com"></a><img id="email" src={EmailLogo} />
+            <a href="mailto:abellach7@gmail.com"><img id="email" src={EmailLogo} /></a>
             <a href="https://www.linkedin.com/in/aaronbellach/"><img src={LinkedInLogo} /></a>
-            <a href="https://github.com/aaronbe7"></a><img src={GitHubLogo} />
+            <a href="https://github.com/aaronbe7"><img src={GitHubLogo} /></a>
         </div>
     )
 }

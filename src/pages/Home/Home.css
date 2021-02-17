@@ -1,24 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@800&display=swap');
 
 .frontpicture {
-    width: 1030px;
+    width: 80%;
     text-align: center;
     height: auto;
 }
 
 h1 {
-    color: #f07320;
+    color: #f8876b;
     text-align: left;
-    margin: 95px 200px 30px 200px;
+    margin: 95px 10% 30px 10%;
 }
 
 #about {
     text-align: left;
-    margin: 0px 200px 80px 200px;
+    margin: 0px 10% 80px 10%;
     font-size: 20px;
     color: #155e96;
 }
 
+#sidebar {
+    position: absolute;
+    text-align: center;
+    margin-left: 5%;
+}
+
+@media (max-width: 600px) {
+    #about {
+        font-size: 15px;
+        margin: 0px 5% 80px 5%;
+    }
+    h1 {
+        font-size: 17px;
+        margin: 45px 5% 10px 5%;
+    }
+    .frontpicture {
+        width: 100%;
+    }
+}
+
+#resume a {
+    text-decoration: transparent;
+    color: rgb(87, 145, 87);
+    border-width: 2.5px;
+    border-style: solid;
+    border-color: rgb(87, 145, 87);
+    border-radius: 10px;;
+    padding: 1px 2px 1px 2px;
+}
+
+#resume {
+    padding-top: 10px;
+}
 
 
 
