@@ -1,6 +1,6 @@
 .topnav {
     overflow: hidden;
-    margin: 50px 200px 0px 200px;
+    margin: 70px 200px 80px 200px;
 }
 
 .topnav a {
@@ -10,10 +10,11 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
 }
 
-#logo {
+#logoheader {
     float: left;
 }
+ 
   
