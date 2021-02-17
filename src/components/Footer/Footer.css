@@ -14,3 +14,9 @@
 .bottomnav img {
     width: 40px;
 }
+
+#contacttext {
+    font-size: 20px;
+    color: #fcfcf5;
+    margin: 20px 0px -45px 0px;
+}

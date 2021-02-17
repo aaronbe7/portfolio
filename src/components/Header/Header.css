@@ -15,12 +15,17 @@
 
 #logoheader {
     float: left;
-    color: #f8876b;
+    color: #f1785a;
+}
+
+#logoheader:hover {
+    text-decoration-line: overline;
+    text-decoration-color: #155e96;
 }
 
 .topnav a:hover {
     text-decoration-line: overline;
-    text-decoration-color: #155e96;
+    text-decoration-color: #f1785a;
 }
  
 @media (max-width: 600px) {

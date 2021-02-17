@@ -7,14 +7,14 @@
 }
 
 h1 {
-    color: #f8876b;
+    color: #f1785a;
     text-align: left;
     margin: 95px 10% 30px 10%;
 }
 
 #about {
     text-align: left;
-    margin: 0px 10% 80px 10%;
+    margin: 0px 10% 40px 10%;
     font-size: 20px;
     color: #155e96;
 }
@@ -41,16 +41,16 @@ h1 {
 
 #resume a {
     text-decoration: transparent;
-    color: rgb(87, 145, 87);
+    color: #f1785a;
     border-width: 2.5px;
     border-style: solid;
-    border-color: rgb(87, 145, 87);
+    border-color: #f1785a;
     border-radius: 10px;;
     padding: 1px 2px 1px 2px;
 }
 
-#resume {
-    padding-top: 10px;
+#skills {
+    color: #f1785a;
 }
 
 
