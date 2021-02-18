@@ -15,9 +15,6 @@ function App() {
         <Route exact path='/projects'>
           <Projects />
         </Route>
-        <Route exact path='/resume'>
-          <Resume />
-        </Route>
       </BrowserRouter>
     </div>
   );

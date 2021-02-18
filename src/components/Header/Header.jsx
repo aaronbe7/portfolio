@@ -11,7 +11,7 @@ export default function PageHeader(){
             <HashLink smooth to='#contact'>Contact</HashLink>
             <Link to='/Projects'>Projects</Link>
             <Link to=''>Home</Link>
-            <Link to='' id="logoheader">Aaron Bellach</Link>
+            <Link to='' id="logoheader">AB</Link>
         </div>
     )
 }

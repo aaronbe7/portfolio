@@ -13,9 +13,9 @@ export default function PageFooter(){
             <div className="bottomnav" id= "contact">
             <div id="contacttext">Contact</div>
             <br/>
-                <a href="mailto:abellach7@gmail.com"><img id="email" src={EmailLogo} /></a>
-                <a href="https://www.linkedin.com/in/aaronbellach/"><img src={LinkedInLogo} /></a>
-                <a href="https://github.com/aaronbe7"><img src={GitHubLogo} /></a>
+                <a href="mailto:abellach7@gmail.com" target="_blank"><img id="email" src={EmailLogo} /></a>
+                <a href="https://www.linkedin.com/in/aaronbellach/" target="_blank"><img src={LinkedInLogo} /></a>
+                <a href="https://github.com/aaronbe7" target="_blank"><img src={GitHubLogo} /></a>
             </div>
         </div>
     )

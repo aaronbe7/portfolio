@@ -1,0 +1,137 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0px 10% 0px 10%;
+}
+
+.grid-item img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 140px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item img:hover {
+    opacity: 90%;
+}
+
+.title {
+    color: #f1785a;
+    font-size: 27px;
+    float: left;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.technologies {
+    margin-top: 10px;
+    color: #f1785a;
+    font-size: 24px;
+    float: left;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+  #recent {
+    text-align: center;
+    margin: -30px 0px 50px 0px;
+  }
+
+  .description {
+    font-size: 20px;
+    margin-left:50px;
+    text-align: left;
+    color: #155e96;
+  }
+
+  #projectlinks a {
+    float: left;
+    text-decoration: transparent;
+    color: #f1785a;
+    border-width: 2.5px;
+    border-style: solid;
+    font-size: 19px;
+    border-color: #f1785a;
+    border-radius: 10px;;
+    padding: 1px 2px 1px 2px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#projectlinks {
+    margin-left: 50px;
+}
+
+@media (max-width: 1200px) {
+    .description {
+        font-size: 17px;
+    }
+    .title {
+        font-size: 24px;
+    }
+    .technologies {
+        font-size: 21px;
+    }
+    #projectlinks a {
+        font-size: 17px;
+    }
+    .grid-container {
+        margin: 0px 5% 0px 5%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .description {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 800px) {
+    .grid-container {
+    margin: 0px 2% 0px 2%;
+    }
+    .description {
+        margin-left: 25px;
+    }
+    .title {
+        font-size: 22px;
+        margin-left: 25px;
+    }
+    .technologies {
+        font-size: 19px;
+        margin-left: 25px;
+    }
+    #projectlinks {
+        margin-left: 25px;
+    }
+    #projectlinks a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 700px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+    .grid-item img {
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+    #projectlinks {
+        margin-bottom: 150px;
+        margin-left: 0px;
+    }
+    .grid-item {
+        margin: 0px 5% 0px 5%;
+    }
+    .description {
+        margin-left: 0px;
+        margin-top: -8px;
+    }
+    .title {
+        margin-left: 0px;
+    }
+    .technologies {
+        margin-left: 0px;
+    }
+}

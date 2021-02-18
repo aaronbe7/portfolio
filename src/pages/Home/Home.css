@@ -37,6 +37,9 @@ h1 {
     .frontpicture {
         width: 100%;
     }
+    #resume {
+        text-align: center;
+    }
 }
 
 #resume a {
