@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3a26b1dc.chunk.css",
-    "main.js": "/portfolio/static/js/main.c6d4a436.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c6d4a436.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.54a3754e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.54a3754e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c178ad88.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c178ad88.js.map",
-    "static/js/2.58fa46f7.chunk.js": "/portfolio/static/js/2.58fa46f7.chunk.js",
-    "static/js/2.58fa46f7.chunk.js.map": "/portfolio/static/js/2.58fa46f7.chunk.js.map",
+    "static/js/2.24c88106.chunk.js": "/portfolio/static/js/2.24c88106.chunk.js",
+    "static/js/2.24c88106.chunk.js.map": "/portfolio/static/js/2.24c88106.chunk.js.map",
     "static/js/3.d847c00f.chunk.js": "/portfolio/static/js/3.d847c00f.chunk.js",
     "static/js/3.d847c00f.chunk.js.map": "/portfolio/static/js/3.d847c00f.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.3a26b1dc.chunk.css.map": "/portfolio/static/css/main.3a26b1dc.chunk.css.map",
-    "static/js/2.58fa46f7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.58fa46f7.chunk.js.LICENSE.txt",
+    "static/js/2.24c88106.chunk.js.LICENSE.txt": "/portfolio/static/js/2.24c88106.chunk.js.LICENSE.txt",
     "static/media/AaronBellachResume.c815803d.pdf": "/portfolio/static/media/AaronBellachResume.c815803d.pdf",
     "static/media/FrontPicture.f0a3a9ee.jpg": "/portfolio/static/media/FrontPicture.f0a3a9ee.jpg",
     "static/media/GoalTracker.8f1c2231.png": "/portfolio/static/media/GoalTracker.8f1c2231.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c178ad88.js",
-    "static/js/2.58fa46f7.chunk.js",
+    "static/js/2.24c88106.chunk.js",
     "static/css/main.3a26b1dc.chunk.css",
-    "static/js/main.c6d4a436.chunk.js"
+    "static/js/main.54a3754e.chunk.js"
   ]
 }
