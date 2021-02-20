@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3a26b1dc.chunk.css",
+    "main.css": "/portfolio/static/css/main.ef7f9ae9.chunk.css",
     "main.js": "/portfolio/static/js/main.9ae4498b.chunk.js",
     "main.js.map": "/portfolio/static/js/main.9ae4498b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c178ad88.js",
@@ -10,7 +10,7 @@
     "static/js/3.d847c00f.chunk.js": "/portfolio/static/js/3.d847c00f.chunk.js",
     "static/js/3.d847c00f.chunk.js.map": "/portfolio/static/js/3.d847c00f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.3a26b1dc.chunk.css.map": "/portfolio/static/css/main.3a26b1dc.chunk.css.map",
+    "static/css/main.ef7f9ae9.chunk.css.map": "/portfolio/static/css/main.ef7f9ae9.chunk.css.map",
     "static/js/2.58fa46f7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.58fa46f7.chunk.js.LICENSE.txt",
     "static/media/AaronBellachResume.c815803d.pdf": "/portfolio/static/media/AaronBellachResume.c815803d.pdf",
     "static/media/FrontPicture.f0a3a9ee.jpg": "/portfolio/static/media/FrontPicture.f0a3a9ee.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.c178ad88.js",
     "static/js/2.58fa46f7.chunk.js",
-    "static/css/main.3a26b1dc.chunk.css",
+    "static/css/main.ef7f9ae9.chunk.css",
     "static/js/main.9ae4498b.chunk.js"
   ]
 }
