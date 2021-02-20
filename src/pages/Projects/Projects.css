@@ -7,7 +7,7 @@
 .grid-item img {
     width: 100%;
     border-radius: 10px;
-    margin-bottom: 140px;
+    margin-bottom: 80px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -17,7 +17,7 @@
 
 .title {
     color: #f1785a;
-    font-size: 27px;
+    font-size: 26px;
     float: left;
     margin-left: 50px;
     font-weight: bold;
@@ -26,7 +26,7 @@
 .technologies {
     margin-top: 10px;
     color: #f1785a;
-    font-size: 24px;
+    font-size: 23px;
     float: left;
     margin-left: 50px;
     font-weight: bold;
@@ -34,12 +34,14 @@
 
   #recent {
     text-align: center;
-    margin: -30px 0px 50px 0px;
+    margin-top: -30px;
+    margin-bottom: 80px;
   }
 
   .description {
-    font-size: 20px;
+    font-size: 19px;
     margin-left:50px;
+    margin-bottom: -5px;
     text-align: left;
     color: #155e96;
   }
@@ -50,16 +52,27 @@
     color: #f1785a;
     border-width: 2.5px;
     border-style: solid;
-    font-size: 19px;
+    font-size: 16px;
     border-color: #f1785a;
     border-radius: 10px;;
-    padding: 1px 2px 1px 2px;
-    margin-top: 10px;
+    padding: 2px 2px 1px 2px;
+    margin-top: 15px;
     margin-right: 10px;
 }
 
 #projectlinks {
     margin-left: 50px;
+}
+
+.credentials {
+    margin-left:50px;
+    margin-top: 10px;
+    font-size: 16px;
+    float: left;
+    text-align: left;
+    padding: 3px;
+    color: #155e96;
+    border-radius: 7px;
 }
 
 @media (max-width: 1200px) {
@@ -73,10 +86,13 @@
         font-size: 21px;
     }
     #projectlinks a {
-        font-size: 17px;
+        font-size: 16px;
     }
     .grid-container {
         margin: 0px 5% 0px 5%;
+    }
+    .credentials {
+        font-size: 15px;
     }
 }
 
@@ -107,6 +123,9 @@
     #projectlinks a {
         font-size: 15px;
     }
+    .credentials {
+        margin-left: 25px;
+    }
 }
 
 @media (max-width: 700px) {
@@ -118,7 +137,6 @@
         margin-bottom: 10px;
     }
     #projectlinks {
-        margin-bottom: 150px;
         margin-left: 0px;
     }
     .grid-item {
@@ -133,5 +151,9 @@
     }
     .technologies {
         margin-left: 0px;
+    }
+    .credentials {
+        margin-left: 0px;
+        margin-bottom: 150px;
     }
 }

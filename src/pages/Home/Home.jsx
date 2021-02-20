@@ -18,10 +18,10 @@ export default function Home(){
             About
         </h1>
         <div id="about">
-            Hey! My name is Aaron Bellach I am a full-stack developer based in San Diego, California. 
+            Hey! My name is Aaron Bellach and I am a full-stack developer based in San Diego, California. 
             In 2020, I graduated from the University of California-Santa Cruz with a BS in Cognitive Science, concentrating in Artificial Intelligence. 
             My interest in software engineering developed after taking courses such as "Intro to Java" and "Personal Computers." 
-            As I progressed through my college career, I quickly realized software development was a path much better suited for me.
+            I quickly realized software development was a path much better suited for me as I progressed through my college career.
             After graduating, I took a software engineering program at General Assembly to further my development skills. 
             <br/>
             <br/>

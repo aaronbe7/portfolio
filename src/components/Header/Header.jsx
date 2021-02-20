@@ -9,9 +9,9 @@ export default function PageHeader(){
     return (
         <div className="topnav">
             <HashLink smooth to='#contact'>Contact</HashLink>
-            <Link to='/portfolio/projects'>Projects</Link>
-            <Link to='/portfolio'>Home</Link>
-            <Link to='/portfolio' id="logoheader">AB</Link>
+            <Link to='/projects'>Projects</Link>
+            <Link to='/'>Home</Link>
+            <Link to='/' id="logoheader">AB</Link>
         </div>
     )
 }
